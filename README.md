@@ -1,2 +1,2 @@
 # go-api
-Go Api build
+Go Rest Api build
